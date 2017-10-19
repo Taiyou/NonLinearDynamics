@@ -11,13 +11,13 @@ Answer: False
 * (c) $(\theta,\omega)=(3$\pi$,0)$
 * (d) $(\theta,\omega)=(-$\pi$,0)$
 * (e) $(\theta,\omega)=(2$\pi$,0)$
-* Q3. Calculate the eigenvalues s1 and s2 of this matrix:
-<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}" /></a>
+* Q3. Calculate the eigenvalues s1 and s2 of this matrix:<br />
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}" /></a> <br />
 Answer: s=5,-2
-\\
+<br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4-s&space;&&space;1&space;\\&space;2&space;&&space;3-s&space;\end{bmatrix}&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4-s&space;&&space;1&space;\\&space;2&space;&&space;3-s&space;\end{bmatrix}&space;=&space;0" title="\begin{bmatrix} 4-s & 1 \\ 2 & 3-s \end{bmatrix} = 0" /></a>
-\\
-<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{eqnarray}&space;(4-s)(3-s)-2&space;&=&&space;0&space;\\&space;s^2-7-10&space;&=&&space;0&space;\\&space;(s-5)(s-2)&space;&=&&space;0&space;\end{eqnarray}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{eqnarray}&space;(4-s)(3-s)-2&space;&=&&space;0&space;\\&space;s^2-7-10&space;&=&&space;0&space;\\&space;(s-5)(s-2)&space;&=&&space;0&space;\end{eqnarray}" title="\begin{eqnarray} (4-s)(3-s)-2 &=& 0 \\ s^2-7-10 &=& 0 \\ (s-5)(s-2) &=& 0 \end{eqnarray}" /></a>
+<br />
+<a href="https://www.codecogs.com/eqnedit.php?latex=(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" title="(4-s)(3-s)-2 = 0 \\ s^2-7-10 = 0 \\ (s-5)(s-2) = 0" /></a>
 
 * Q4. What is the shape of this matrix?
 \begin{pmatrix}
