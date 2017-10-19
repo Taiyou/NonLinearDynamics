@@ -6,11 +6,11 @@
 * Q1. All fixed points live in the bottoms of bowls in the dynamical landscape.
 Answer: False
 * Q2. The following fixed points of the undamped pendulum are saddle points in the dynamical landscape (i.e., with one positive real eigenvalue and one negative real eigenvalue).
-* (a) $(\theta$,\omega)=(0,0)$
-* (b) $(\theta,\omega)=($\pi$,0)$
-* (c) $(\theta,\omega)=(3$\pi$,0)$
-* (d) $(\theta,\omega)=(-$\pi$,0)$
-* (e) $(\theta,\omega)=(2$\pi$,0)$
+* (a) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta$,\omega)=(0,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta$,\omega)=(0,0)" title="(\theta$,\omega)=(0,0)" /></a>
+* (b) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=($\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=($\pi$,0)" title="(\theta,\omega)=($\pi$,0)" /></a>
+* (c) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(3$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(3$\pi$,0)" title="(\theta,\omega)=(3$\pi$,0)" /></a>
+* (d) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(-$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(-$\pi$,0)" title="(\theta,\omega)=(-$\pi$,0)" /></a>
+* (e) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(2$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(2$\pi$,0)" title="(\theta,\omega)=(2$\pi$,0)" /></a>
 * Q3. Calculate the eigenvalues s1 and s2 of this matrix:<br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}" /></a> <br />
 Answer: s=5,-2
@@ -20,10 +20,8 @@ Answer: s=5,-2
 <a href="https://www.codecogs.com/eqnedit.php?latex=(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" title="(4-s)(3-s)-2 = 0 \\ s^2-7-10 = 0 \\ (s-5)(s-2) = 0" /></a>
 
 * Q4. What is the shape of this matrix?
-\begin{pmatrix}
-    0  & 9.2& \pi& \e  & 7 \\
-    18 & 3  & 12  & -8.2 & 2\pi
-\end{pmatrix}
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;0&space;&&space;9.2&&space;\pi&&space;\e&space;&&space;7&space;\\&space;18&space;&&space;3&space;&&space;12&space;&&space;-8.2&space;&&space;2\pi&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;0&space;&&space;9.2&&space;\pi&&space;\e&space;&&space;7&space;\\&space;18&space;&&space;3&space;&&space;12&space;&&space;-8.2&space;&&space;2\pi&space;\end{bmatrix}" title="\begin{bmatrix} 0 & 9.2& \pi& \e & 7 \\ 18 & 3 & 12 & -8.2 & 2\pi \end{bmatrix}" /></a>
+<br />
 Answer: 2x5
 
 * Q5. A is a 2x2 matrix that captures how the state of a dynamical system evolves.  How many eigenvalues does A have?  (Experts: count any repeated ones individually.) 
