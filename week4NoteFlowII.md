@@ -6,14 +6,23 @@
 * Q1. All fixed points live in the bottoms of bowls in the dynamical landscape.
 Answer: False
 * Q2. The following fixed points of the undamped pendulum are saddle points in the dynamical landscape (i.e., with one positive real eigenvalue and one negative real eigenvalue).
-* (a) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta$,\omega)=(0,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta$,\omega)=(0,0)" title="(\theta$,\omega)=(0,0)" /></a>
-* (b) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=($\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=($\pi$,0)" title="(\theta,\omega)=($\pi$,0)" /></a>
-* (c) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(3$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(3$\pi$,0)" title="(\theta,\omega)=(3$\pi$,0)" /></a>
-* (d) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(-$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(-$\pi$,0)" title="(\theta,\omega)=(-$\pi$,0)" /></a>
-* (e) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(2$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(2$\pi$,0)" title="(\theta,\omega)=(2$\pi$,0)" /></a>
+* (a) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta$,\omega)=(0,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta$,\omega)=(0,0)" title="(\theta$,\omega)=(0,0)" /></a> <br />
+Answer: False
+* (b) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=($\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=($\pi$,0)" title="(\theta,\omega)=($\pi$,0)" /></a> <br />
+Answer: True
+
+* (c) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(3$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(3$\pi$,0)" title="(\theta,\omega)=(3$\pi$,0)" /></a> <br />
+Answer: True
+
+* (d) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(-$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(-$\pi$,0)" title="(\theta,\omega)=(-$\pi$,0)" /></a> <br />
+Answer: True
+
+* (e) <a href="https://www.codecogs.com/eqnedit.php?latex=(\theta,\omega)=(2$\pi$,0)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(\theta,\omega)=(2$\pi$,0)" title="(\theta,\omega)=(2$\pi$,0)" /></a> <br />
+Answer: False
+
 * Q3. Calculate the eigenvalues s1 and s2 of this matrix:<br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}" /></a> <br />
-Answer: s=5,-2
+Answer: s=5,2
 <br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4-s&space;&&space;1&space;\\&space;2&space;&&space;3-s&space;\end{bmatrix}&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4-s&space;&&space;1&space;\\&space;2&space;&&space;3-s&space;\end{bmatrix}&space;=&space;0" title="\begin{bmatrix} 4-s & 1 \\ 2 & 3-s \end{bmatrix} = 0" /></a>
 <br />
