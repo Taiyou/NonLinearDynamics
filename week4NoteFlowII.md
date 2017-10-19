@@ -6,21 +6,21 @@
 * Q1. All fixed points live in the bottoms of bowls in the dynamical landscape.
 Answer: False
 * Q2. The following fixed points of the undamped pendulum are saddle points in the dynamical landscape (i.e., with one positive real eigenvalue and one negative real eigenvalue).
-* (a) $(\theta,\omega)=(0,0)$
-* (b) $(\theta,\omega)=(\pi,0)$
-* (c) $(\theta,\omega)=(3\pi,0)$
-* (d) $(\theta,\omega)=(-\pi,0)$
-* (e) $(\theta,\omega)=(2\pi,0)$
+* (a) $(\theta$,\omega)=(0,0)$
+* (b) $(\theta,\omega)=($\pi$,0)$
+* (c) $(\theta,\omega)=(3$\pi$,0)$
+* (d) $(\theta,\omega)=(-$\pi$,0)$
+* (e) $(\theta,\omega)=(2$\pi$,0)$
 * Q3. Calculate the eigenvalues s1 and s2 of this matrix:
-\begin{bmatrix}
+\begin{pmatrix}
     4 & 1 \\
     2 & 3
-\end{bmatrix}
+\end{pbmatrix}
 Answer: $s=5,-2$
-\begin{bmatrix}
+\begin{pmatrix}
     4-s & 1 \\
     2   & 3-s
-\end{bmatrix} 
+\end{pmatrix} 
 = 0
 \begin{eqnarray}
  (4-s)(3-s)-2 &=& 0 \\
@@ -29,10 +29,10 @@ Answer: $s=5,-2$
 \end{eqnarray}
 
 * Q4. What is the shape of this matrix?
-\begin{bmatrix}
+\begin{pmatrix}
     0  & 9.2& \pi& \e  & 7 \\
     18 & 3  & 12  & -8.2 & 2\pi
-\end{bmatrix}
+\end{pmatrix}
 Answer: 2x5
 
 * Q5. A is a 2x2 matrix that captures how the state of a dynamical system evolves.  How many eigenvalues does A have?  (Experts: count any repeated ones individually.) 
