@@ -28,7 +28,7 @@ Answer: s=5,2
 <br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(4-s)(3-s)-2&space;=&space;0&space;\\&space;s^2-7-10&space;=&space;0&space;\\&space;(s-5)(s-2)&space;=&space;0" title="(4-s)(3-s)-2 = 0 \\ s^2-7-10 = 0 \\ (s-5)(s-2) = 0" /></a>
 
-* Q4. What is the shape of this matrix?
+* Q4. What is the shape of this matrix? <br />
 <a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;0&space;&&space;9.2&&space;\pi&&space;\e&space;&&space;7&space;\\&space;18&space;&&space;3&space;&&space;12&space;&&space;-8.2&space;&&space;2\pi&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;0&space;&&space;9.2&&space;\pi&&space;\e&space;&&space;7&space;\\&space;18&space;&&space;3&space;&&space;12&space;&&space;-8.2&space;&&space;2\pi&space;\end{bmatrix}" title="\begin{bmatrix} 0 & 9.2& \pi& \e & 7 \\ 18 & 3 & 12 & -8.2 & 2\pi \end{bmatrix}" /></a>
 <br />
 Answer: 2x5
