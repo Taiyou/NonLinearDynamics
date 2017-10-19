@@ -5,17 +5,14 @@
 # 4.2 Saddle points and eigenvectors
 * Q1. All fixed points live in the bottoms of bowls in the dynamical landscape.
 Answer: False
-* Q2. The following fixed points of the undamped pendulum are saddle points in the dynamical landscape (i.e., with one positive real eigenvalue and one negative real eigenvalue).
+Q2. The following fixed points of the undamped pendulum are saddle points in the dynamical landscape (i.e., with one positive real eigenvalue and one negative real eigenvalue).
 * (a) $(\theta$,\omega)=(0,0)$
 * (b) $(\theta,\omega)=($\pi$,0)$
 * (c) $(\theta,\omega)=(3$\pi$,0)$
 * (d) $(\theta,\omega)=(-$\pi$,0)$
 * (e) $(\theta,\omega)=(2$\pi$,0)$
-* Q3. Calculate the eigenvalues s1 and s2 of this matrix:
-\begin{pmatrix}
-    4 & 1 \\
-    2 & 3
-\end{pbmatrix}
+Q3. Calculate the eigenvalues s1 and s2 of this matrix:
+<a href="https://www.codecogs.com/eqnedit.php?latex=\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\begin{bmatrix}&space;4&space;&&space;1&space;\\&space;2&space;&&space;3&space;\end{bmatrix}" title="\begin{bmatrix} 4 & 1 \\ 2 & 3 \end{bmatrix}" /></a>
 Answer: $s=5,-2$
 \begin{pmatrix}
     4-s & 1 \\
