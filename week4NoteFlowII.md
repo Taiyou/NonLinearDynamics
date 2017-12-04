@@ -1,6 +1,19 @@
 # 4.1 Fixed points and stability
-* Q1.
-* Q2.
+* Q1. Do conservative systems have attractors?
+ Answer: No. (not always true)
+* Q2. Can conservative systems be chaotic?
+ Answer: Yes. (Yes it can)
+* Q3. How do you know if a point is a fixed point of the dynamics?
+ - A. The trajectory starts there
+ - B. Trajectories never leave that state
+ - C. If the system is at that state and you perturb it, that perturbation will shrink
+ - Answer: B
+* Q4. How do you know if a point is a stable fixed point of the dynamics?
+- A. The trajectory starts there
+- B. Trajectories never leave that state
+- C. If the system is at that state and you perturb it, that perturbation does not grow and trajectories never leave that state without external influence
+- Answer: C
+ 
 
 # 4.2 Saddle points and eigenvectors
 * Q1. All fixed points live in the bottoms of bowls in the dynamical landscape.
