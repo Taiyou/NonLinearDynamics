@@ -68,6 +68,25 @@ Answer: A. True
 Answer: B. False
 
 # 4.3 Stable and unstable manifolds
+heteroclinic cycle, [homoclinic cycle](https://en.wikipedia.org/wiki/Homoclinic_bifurcation).
+* Q1. A fixed point in a two-dimensional linear dynamical system that has one positive real eigenvalue and one negative real eigenvalue is a saddle point.
+ - True.
+* Q2. A fixed point in a two-dimensional nonlinear dynamical system that has one positive real eigenvalue and one negative real eigenvalue is a saddle point.  (Experts: assume that the nonlinear system can be linearized at the fixed point.)
+ - Answer: True
+* Q3. The point Θ = π, ω = 0 in the pendulum is a saddle point.
+ - Answer: True
+* Q4. The point Θ = π, ω = 0 is the pendulum's only saddle point.
+ - Answer: False
+* Q5. Stable and unstable manifolds are the same thing as stable and unstable eigenvectors.
+ - Answer: False
+* Q6. A point that starts on an unstable manifold will always stay on that unstable manifold.
+ - Answer: True
+* Q7. The distance between a fixed point and a point near that fixed point on its stable manifold will grow with time.
+ - Answer: False
+* Q8. The distance between a fixed point and a point near that fixed point on its unstable manifold will grow with time.
+ - Answer: True
+* Q9. If a fixed point's stable manifold connects back around and becomes its own unstable manifold, that's called a heteroclinic orbit.
+ - Answer: False.
 
 # 4.4 Attractors, strange and otherwise
 
