@@ -108,7 +108,8 @@ What can you say, from the picture above, about the dimension of that system?
  - C. The state space has two dimensions
  - D. The state space has at least three dimensions
  - E. The periodic orbit is an attractor
- - Answer: D. The state space has at least three dimensions
+ - Answer: D. The state space has at least three dimensions.
+ - State space cannot be two dimension since the periodic orbit have a intersection.
 * Q6. There is at least one stable manifold associated with every point on an attracting periodic orbit in a nonlinear dynamical system.
 - Answer: True.
 * Q7. The Lorenz system has three state variables and two parameters.
