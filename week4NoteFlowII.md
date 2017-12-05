@@ -93,7 +93,12 @@ heteroclinic cycle, [homoclinic cycle](https://en.wikipedia.org/wiki/Homoclinic_
 * Q2. Stable manifolds have the effect of compressing state space.
 * Q3. Unstable manifolds have the effect of compressing state space.
 * Q4. An attracting fixed point in an n-dimensional nonlinear dynamical system lives at the intersection of n stable manifolds.
-* Q5.  What can you say, from the picture above, about the dimension of that system?
+* Q5.
+Here's a picture of a periodic orbit of a nonlinear dynamical system.
+
+![The picture](https://github.com/Taiyou/NonLinearDynamics/blob/master/content_periodic-orbit.jpg)
+
+What can you say, from the picture above, about the dimension of that system?
  - A. Nothing
  - B. The state space has one dimension
  - C. The state space has two dimensions
