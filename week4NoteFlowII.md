@@ -89,5 +89,24 @@ heteroclinic cycle, [homoclinic cycle](https://en.wikipedia.org/wiki/Homoclinic_
  - Answer: False.
 
 # 4.4 Attractors, strange and otherwise
+* Q1. Stable and unstable manifolds play no role in the shape of a chaotic attractor.
+* Q2. Stable manifolds have the effect of compressing state space.
+* Q3. Unstable manifolds have the effect of compressing state space.
+* Q4. An attracting fixed point in an n-dimensional nonlinear dynamical system lives at the intersection of n stable manifolds.
+* Q5.  What can you say, from the picture above, about the dimension of that system?
+ - A. Nothing
+ - B. The state space has one dimension
+ - C. The state space has two dimensions
+ - D. The state space has at least three dimensions
+ - E. The periodic orbit is an attractor
+* Q6. There is at least one stable manifold associated with every point on an attracting periodic orbit in a nonlinear dynamical system.
+* Q7. The Lorenz system has three state variables and two parameters.
+* Q8. The Lorenz system models a spring-loaded pendulum (like the simple harmonic oscillator on a pivot).
+* Q9. There are two stable fixed points in the dynamics of the Lorenz system for some values of the system's parameters.
+* Q10. There is a chaotic attractor in the dynamics of the Lorenz system for some values of the system's parameters.
+* Q11. Nonlinear dynamical systems can have lots of attractors in different regions of their state space, but only one type at a time (i.e. all fixed points, all periodic orbits, or all chaotic attractors).
+* Q12. The basins of attraction of different attractors in a dynamical system can overlap.
+* Q13. Lorenz was the first person to recognize chaos.  (Experts: neglect Poincare, who did a lot of things before others did, including write down e=mc2!)
+* Q14. Lorenz was the first person to use the term "chaos" for this kind of behavior.
 
 # 4.5 Field trip: Using stable and unstable manifolds to design spacecraft trajectories (with Jeff Parker) 
