@@ -90,9 +90,13 @@ heteroclinic cycle, [homoclinic cycle](https://en.wikipedia.org/wiki/Homoclinic_
 
 # 4.4 Attractors, strange and otherwise
 * Q1. Stable and unstable manifolds play no role in the shape of a chaotic attractor.
+- Answer: False. It plays a pivotal role.
 * Q2. Stable manifolds have the effect of compressing state space.
+- Answer: True.
 * Q3. Unstable manifolds have the effect of compressing state space.
+- Answer: False.
 * Q4. An attracting fixed point in an n-dimensional nonlinear dynamical system lives at the intersection of n stable manifolds.
+- Answer: True.
 * Q5.
 Here's a picture of a periodic orbit of a nonlinear dynamical system.
 
@@ -104,14 +108,24 @@ What can you say, from the picture above, about the dimension of that system?
  - C. The state space has two dimensions
  - D. The state space has at least three dimensions
  - E. The periodic orbit is an attractor
+ - Answer: D. The state space has at least three dimensions
 * Q6. There is at least one stable manifold associated with every point on an attracting periodic orbit in a nonlinear dynamical system.
+- Answer: True.
 * Q7. The Lorenz system has three state variables and two parameters.
+- Answer: False. It has stree state variables and three parameters.
 * Q8. The Lorenz system models a spring-loaded pendulum (like the simple harmonic oscillator on a pivot).
+- Answer. False. The Lorenz system models a Navi-stokes equation.
 * Q9. There are two stable fixed points in the dynamics of the Lorenz system for some values of the system's parameters.
+- Answer. True.
 * Q10. There is a chaotic attractor in the dynamics of the Lorenz system for some values of the system's parameters.
+- Answer: True.
 * Q11. Nonlinear dynamical systems can have lots of attractors in different regions of their state space, but only one type at a time (i.e. all fixed points, all periodic orbits, or all chaotic attractors).
+- Answer: False. Four types of attractors can co-exist.
 * Q12. The basins of attraction of different attractors in a dynamical system can overlap.
+- Answer: False.
 * Q13. Lorenz was the first person to recognize chaos.  (Experts: neglect Poincare, who did a lot of things before others did, including write down e=mc2!)
+- Answer: True.
 * Q14. Lorenz was the first person to use the term "chaos" for this kind of behavior.
+-Answer: False. The word, 'chaos', did not appear in his paper.
 
 # 4.5 Field trip: Using stable and unstable manifolds to design spacecraft trajectories (with Jeff Parker) 
