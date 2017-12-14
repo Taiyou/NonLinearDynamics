@@ -105,3 +105,70 @@
 #### C. Chaos
 #### D. Fixed point
 #### Answer: B. 4-cycle
+
+# 7.4 Unstable periodic orbits.
+  - Unstable periodic orbits (UPOs)
+    - if perterbations disturb periodic activity
+  - strange or chaotic attractors:
+    - exponential divergence of neighboring trajectories
+    - often fractal
+    - covered densely by trajectories
+    - contain an infinite number of unstable periodic orbits
+  - [Poincare recurrence](https://en.wikipedia.org/wiki/Poincar%C3%A9_recurrence_theorem)
+
+## Q1. How many unstable periodic orbits (UPOs) are there in the dynamical landscape of a dissipative chaotic system?
+### A. None
+### B. An infinite number
+### C. It depends on which chaotic system you're talking about
+### Answer: B. An infinite number
+
+## Q2. All UPOs have even-numbered periods (2, 4, 6, ...)
+### Answer: False. any natural numbers.
+
+## Q3. Which of the following statements are true about the relationship between UPOs and chaotic attractors?
+### A. A chaotic attractor is the closure of the set of its UPOs
+### B. UPOs are dense in any chaotic attractor
+### C. Both of the above
+### D. Neither of the above
+### Answer: C. Both of the above
+
+# 7.5 Fractal and chaos
+  - most chaotic sysmtes have fractral structure, but not all.
+  - cantor set
+    - middle third Cantor set
+    - cantor set is "self similar"
+  - capacity dimension aka box dimension
+    - Eucledean norm
+    - L1
+
+## Q1. Fill in the blank. [...] chaotic systems have fractal state-space structure.
+### A. Only a few
+### B. All
+### C. Most
+### Answer: C. Most
+
+## Q2. (Experts: Almost all) fractals have non-integer fractal dimension.
+### Answer: True. 
+
+## Q3. (Experts: Almost all) fractals are self similar objects.
+### Answer: True.
+
+## Q4. The fractal dimension of the middle-fifth-removed Cantor set is smaller than that of the middle-third-removed Cantor set.
+### Answer: B. False
+
+## Q5. 
+### Answer: B.
+
+## Q6. What is the capacity dimension of the middle-third-removed Cantor set?
+### A. 0.6309
+### B. 
+### C. 0.3333
+### D. 0.8614
+### Answer: A. 0.6309
+
+## Q7. What is the capacity dimension of the middle-fifth-removed Cantor set?
+####  0.6309
+### B. 
+### C. 0.2
+### D. 0.7565
+### Answer: D. 0.7565
