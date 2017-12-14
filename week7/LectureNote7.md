@@ -20,4 +20,10 @@
  
  # 7.2 Lyapunov exponents.
  - Lyapunov exponents:
-  - n-dim system has n lambda $$\lambda$$
+  - n-dim system has n lambda $\lambda$
+  - negative \lambda compress state space along stable manifolds.
+  - positive \lambda stretch it along unstable manifolds
+  - \sum \lambda_i < 0 for disipative systems
+  - positive \lambda is a signature of chaos (not necessary and sufficient condition)
+  - \lambda_i are properties of attractors: same for all ICs in one basin.
+  
