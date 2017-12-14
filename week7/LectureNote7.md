@@ -63,3 +63,45 @@
 ## Answer: True.
 
 # 7.3 Sections and projections
+## Q1. Both projections and sections reduce the dimension of an object.
+## Answer: True
+
+## Q2. A medical x-ray performs a projection operation.
+## Answer: True.
+
+## Q3. Meauring the value of a single state variable of a dynamical system is like performing a section.
+## Answer: False.
+
+## Q4. Sections can be slices in time or slices in (state) space.
+## Answer: True.
+
+## Q5. Consider the following orbit of a dynamical system (in blue in the following figure).
+### (a) What will you see if you perform a spatial Poincare section of this object with a plane of section x = 3?
+#### A. A middle-half removed Cantor set
+#### B. An equally spaced circle of points
+#### C. Two points
+#### D. Four points
+#### E. One point
+#### Answer: C. Two points
+
+### (b) What type of dynamics is this type of section associated with?
+#### A. 2-cycle
+#### B. 4-cycle
+#### C. Chaos
+#### D. Fixed point
+#### Answer: A. 2-cycle
+
+### (c) What will you see if you perform a spatial Poincare section of this object with a plane of section y = 2?
+#### A. A middle-half removed Cantor set
+#### B. An equally spaced circle of points
+#### C. Two points
+#### D. Four points
+#### E. One point
+#### Answer: D. Four points
+
+### (d) What type of dynamics is this type of section associated with?
+#### A. 2-cycle
+#### B. 4-cycle
+#### C. Chaos
+#### D. Fixed point
+#### Answer: B. 4-cycle
